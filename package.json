@@ -1,0 +1,25 @@
+{
+  "name": "dex-kiosk-api",
+  "version": "1.0.0",
+  "description": "DEX Kiosk API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbernardotti/dex-kiosk-api.git"
+  },
+  "keywords": [
+    "DEX",
+    "Kiosk",
+    "Tizen",
+    "API"
+  ],
+  "author": "Sebastian Bernardotti <sebastian.bernardotti@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbernardotti/dex-kiosk-api/issues"
+  },
+  "homepage": "https://github.com/sbernardotti/dex-kiosk-api#readme"
+}
